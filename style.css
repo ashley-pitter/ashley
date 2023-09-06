@@ -1,0 +1,6 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:mediumpurple;
+font-family: cursive;
+background:image(syntax: [ <bg-layer> , ]* <final-bg-layer>);
